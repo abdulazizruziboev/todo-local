@@ -1,0 +1,9 @@
+export const themeTogglerButtonEl = document.querySelector(".theme-toggler-button");
+export const todoAddButtonEl = document.querySelector(".todo-add-button");
+export const todoCuModalEl = document.querySelector(".todo-cu-modal");
+export const todoCuFormEl = document.querySelector("#todo-cu-form");
+export const todosListBoxEl  = document.querySelector(".todos-list");
+export const todoCardTemplateEl = document.querySelector("#todo-card-template");
+export const todosEmptyTextEl = document.querySelector(".todos-empty-text");
+export const todoDeleteModalEl = document.querySelector(".todo-delete-modal");
+export const todoDeleteConfirmButtonEl = document.querySelector(".todo-delete-form-confirm-button");
